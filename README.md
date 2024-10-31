@@ -13,3 +13,11 @@ I employ ACF Pro to develop flexible and dynamic custom fields, which facilitate
 
 Contact form 7
 For managing form submissions, I utilize Contact Form 7, as it offers a straightforward and versatile solution for handling various forms effectively.
+
+#Languages
+
+HTML, CSS, Bootstrap, JavaScript, JQuery, PHP
+
+#Libraries/frameworks
+
+Animation on Scroll, Splide, Bootstrap
